@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+.env
+venv/
+.pyspark_env/
+.idea/
+.vscode/
+.streamlit/secrets.toml
+data/raw/

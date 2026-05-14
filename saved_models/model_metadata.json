@@ -1,0 +1,9 @@
+{
+    "target_column": "Historical_Demand",
+    "problem_type": "regression",
+    "metrics": {
+        "rmse": 38.51734909934256,
+        "mae": 27.03970718383789,
+        "r2_score": 0.9998197555541992
+    }
+}
